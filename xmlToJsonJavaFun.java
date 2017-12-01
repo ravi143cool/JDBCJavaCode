@@ -1,4 +1,4 @@
-package BSFDispatcher.JSONCaller;
+package process.JSONCaller;
 import java.util.*;
 import java.io.*;
 import net.sf.json.xml.XMLSerializer;
